@@ -1,0 +1,17 @@
+@use "normalize";
+
+* {
+  box-sizing: border-box;
+}
+
+
+img {
+  display: block;
+}
+
+
+ul {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
